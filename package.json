@@ -1,0 +1,32 @@
+{
+  "name": "amrit-kavitha-wedding-site",
+  "private": true,
+  "description": "The source for amritkavitha.com",
+  "version": "1.0.0",
+  "author": "Nick Dujay <nickdujay@gmail.com>",
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.5.1",
+    "date-fns": "^2.0.0-alpha.7",
+    "gatsby": "^1.9.241",
+    "gatsby-link": "^1.6.39",
+    "gatsby-plugin-favicon": "^2.1.1",
+    "gatsby-plugin-google-fonts": "0.0.4",
+    "gatsby-plugin-less": "^1.1.8",
+    "gatsby-plugin-react-helmet": "^2.0.8",
+    "gatsby-plugin-styled-components": "^2.0.11",
+    "react-animate-height": "^1.0.1",
+    "react-click-outside": "github:tj/react-click-outside",
+    "react-helmet": "^5.2.0",
+    "recompose": "^0.26.0",
+    "styled-components": "^3.2.5"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write 'src/**/*.{js,css,less}'"
+  },
+  "devDependencies": {
+    "prettier": "^1.11.1"
+  }
+}
