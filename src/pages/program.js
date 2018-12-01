@@ -113,8 +113,8 @@ const ProgramPage = () => (
       Kavitha now enters the hall accompanied by her family and bridesmaids
       wearing a saree gifted by her sister (Manavarai Saree). She is then
       escorted by her maid of honour / tholi, Elizabeth (a close female
-      representative from Amrit’s family) and takes her place at the altar to the
-      right of Amrit. Similar rituals are held to sanctify and protect her;
+      representative from Amrit’s family) and takes her place at the altar to
+      the right of Amrit. Similar rituals are held to sanctify and protect her;
       however the ring and thread are worn on her left ring finger and left
       wrist respectively. This is because the image of{' '}
       <a href="https://en.wikipedia.org/wiki/Ardhanarishvara">
@@ -148,9 +148,9 @@ const ProgramPage = () => (
       each other foreheads. Kavitha’s mother with betel leaf and coconut in hand
       places her daughter's hand in Amrit’s hand indicating that he accept,
       cherish, and protect her all through life. She gives Amrit a gold coin
-      symbolic of giving away the bride. Amrit accepts the coin and in turn gives
-      it to his mother. This signifies the acceptance of Kavitha by Amrit and his
-      family.
+      symbolic of giving away the bride. Amrit accepts the coin and in turn
+      gives it to his mother. This signifies the acceptance of Kavitha by Amrit
+      and his family.
     </Text>
     <Header>BLESSING OF THE SAREE AND thaali</Header>
     <SideImage>
@@ -165,17 +165,17 @@ const ProgramPage = () => (
       matrimonial Koorai saree,{' '}
       <a href="https://en.wikipedia.org/wiki/Mangala_sutra">thaali</a> (gold
       necklace symbolising marriage) and other adornments. The tray is presented
-      to the guests for their blessing. Kavitha then leaves the altar accompanied
-      by her mother and tholi (maid of honour) and returns to her bridal suite
-      to change into the Koorai saree. The priest consecrates the thaali by
-      placing it on a kumbam in which the{' '}
+      to the guests for their blessing. Kavitha then leaves the altar
+      accompanied by her mother and tholi (maid of honour) and returns to her
+      bridal suite to change into the Koorai saree. The priest consecrates the
+      thaali by placing it on a kumbam in which the{' '}
       <a href="https://en.wikipedia.org/wiki/Lakshmi">Goddess Lakshmi</a>{' '}
       (Goddess of Wealth and Prosperity) is invoked and a pooja seeking her
       blessing is performed. The kumbam is a brass pot of water with a coconut
-      and mango leaves placed on it, representing the deity. Kavitha then returns
-      to the altar with her family and bridesmaids dressed in her Koorai saree
-      carrying a garland expressing her consent and acceptance and takes her
-      seat next to Amrit.
+      and mango leaves placed on it, representing the deity. Kavitha then
+      returns to the altar with her family and bridesmaids dressed in her Koorai
+      saree carrying a garland expressing her consent and acceptance and takes
+      her seat next to Amrit.
     </Text>
     <Header>TYING THE SACRED THAALI</Header>
     <SideImage>
@@ -220,11 +220,12 @@ const ProgramPage = () => (
     <Text>
       Tradition has it that marriage be formalized in the presence of Agni, the
       God of Fire. Here he stands as the universal witness to the union (Agni
-      Saatchi). Accompanied by the tholan &amp; tholi, Kavitha and Amrit will take
-      their first steps as husband and wife, circling the sacred fire clockwise
-      three times to pay their respect to Agni. Having God as their guide, the
-      couple will walk seven steps together to pledge their commitment towards
-      the seven goals for spiritual evolution, and this is called Sapatapadi.
+      Saatchi). Accompanied by the tholan &amp; tholi, Kavitha and Amrit will
+      take their first steps as husband and wife, circling the sacred fire
+      clockwise three times to pay their respect to Agni. Having God as their
+      guide, the couple will walk seven steps together to pledge their
+      commitment towards the seven goals for spiritual evolution, and this is
+      called Sapatapadi.
     </Text>
     <List>
       <li>The first step is for health, wealth and prosperity.</li>

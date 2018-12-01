@@ -94,8 +94,8 @@ const FaqPage = () => (
         </a>.
       </div>
       <div>
-          or by phone call to the <b>Amrit Residence</b>: [INSERT PHONE NUMBER HERE], or{' '}
-        <b>Kavitha Residence</b>: [INSERT PHONE NUMBER HERE]
+        or by phone call to the <b>Amrit Residence</b>: [INSERT PHONE NUMBER
+        HERE], or <b>Kavitha Residence</b>: [INSERT PHONE NUMBER HERE]
       </div>
     </div>
     <div className="faq-question">When is the RSVP deadline?</div>

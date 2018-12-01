@@ -7,7 +7,8 @@ const EventPage = () => (
       <span className="event-title">Venue:</span> Markham Convention Centre
     </div>
     <div>
-      <span className="event-title">Address:</span> 2901 Markham Rd, Toronto, ON M1X 0B6, Canada
+      <span className="event-title">Address:</span> 2901 Markham Rd, Toronto, ON
+      M1X 0B6, Canada
     </div>
     <div>
       <span className="event-title">Breakfast:</span> 9am

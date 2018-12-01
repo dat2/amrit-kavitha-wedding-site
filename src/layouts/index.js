@@ -125,7 +125,7 @@ const TemplateWrapper = ({ children, location }) => (
         <div className="children">{children()}</div>
       </div>
       <Footer>
-        <div style={{ width: "100vw"}} />
+        <div style={{ width: '100vw' }} />
         <CentredText>#AMRITWEDSKAVITHA</CentredText>
       </Footer>
     </PageContainer>

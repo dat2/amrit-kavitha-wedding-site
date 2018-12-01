@@ -59,19 +59,19 @@ const Spacer = Text.extend`
 
 const IndexPage = ({ remaining: { days, hours, minutes, seconds } }) => (
   <div>
-  <Centered>
-    <TimeBlock time={days} label="day" />
-    <Spacer>:</Spacer>
-    <TimeBlock time={hours} label="hour" />
-    <Spacer>:</Spacer>
-    <TimeBlock time={minutes} label="minute" />
-    <Spacer>:</Spacer>
-    <TimeBlock time={seconds} label="second" />
-  </Centered>
+    <Centered>
+      <TimeBlock time={days} label="day" />
+      <Spacer>:</Spacer>
+      <TimeBlock time={hours} label="hour" />
+      <Spacer>:</Spacer>
+      <TimeBlock time={minutes} label="minute" />
+      <Spacer>:</Spacer>
+      <TimeBlock time={seconds} label="second" />
+    </Centered>
 
-  <Centered>
-  <img style={{height:"500px"}}src={kiss} />
-  </Centered>
+    <Centered>
+      <img style={{ height: '500px' }} src={kiss} />
+    </Centered>
   </div>
 )
 
