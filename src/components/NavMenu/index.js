@@ -25,7 +25,7 @@ const StyledLink = styled(Link)`
   text-decoration: none;
   font-family: 'Cinzel';
   &:hover {
-    color: #fda38d;
+    color: #d3b725;
   }
   &:not(:first-child) {
     border-top: 1px solid #ececec;
@@ -35,22 +35,22 @@ const StyledLink = styled(Link)`
 const NavMenu = () => (
   <Nav className="nav-list">
     <List>
-      <StyledLink to="/" exact activeStyle={{ color: '#fda38d' }}>
+      <StyledLink to="/" exact activeStyle={{ color: '#d3b725' }}>
         Welcome
       </StyledLink>
-      <StyledLink to="/event/" activeStyle={{ color: '#fda38d' }}>
+      <StyledLink to="/event/" activeStyle={{ color: '#d3b725' }}>
         Wedding Event
       </StyledLink>
-      <StyledLink to="/program/" activeStyle={{ color: '#fda38d' }}>
+      <StyledLink to="/program/" activeStyle={{ color: '#d3b725' }}>
         Wedding Program
       </StyledLink>
-      <StyledLink to="/rsvp/" activeStyle={{ color: '#fda38d' }}>
+      <StyledLink to="/rsvp/" activeStyle={{ color: '#d3b725' }}>
         RSVP
       </StyledLink>
-      <StyledLink to="/photos/" activeStyle={{ color: '#fda38d' }}>
+      <StyledLink to="/photos/" activeStyle={{ color: '#d3b725' }}>
         Photo Gallery
       </StyledLink>
-      <StyledLink to="/faq/" activeStyle={{ color: '#fda38d' }}>
+      <StyledLink to="/faq/" activeStyle={{ color: '#d3b725' }}>
         FAQ
       </StyledLink>
     </List>
