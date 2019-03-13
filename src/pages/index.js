@@ -14,6 +14,7 @@ import {
   differenceInSeconds,
   differenceInWeeks,
 } from 'date-fns'
+import kiss from './Kiss.jpg'
 
 const Text = styled.div`
   font-family: 'Cinzel';
@@ -57,18 +58,24 @@ const Spacer = Text.extend`
 `
 
 const IndexPage = ({ remaining: { days, hours, minutes, seconds } }) => (
-  <Centered>
-    <TimeBlock time={days} label="day" />
-    <Spacer>:</Spacer>
-    <TimeBlock time={hours} label="hour" />
-    <Spacer>:</Spacer>
-    <TimeBlock time={minutes} label="minute" />
-    <Spacer>:</Spacer>
-    <TimeBlock time={seconds} label="second" />
-  </Centered>
+  <div>
+    <Centered>
+      <TimeBlock time={days} label="day" />
+      <Spacer>:</Spacer>
+      <TimeBlock time={hours} label="hour" />
+      <Spacer>:</Spacer>
+      <TimeBlock time={minutes} label="minute" />
+      <Spacer>:</Spacer>
+      <TimeBlock time={seconds} label="second" />
+    </Centered>
+
+    <Centered>
+      <img style={{ height: '500px' }} src={kiss} />
+    </Centered>
+  </div>
 )
 
-function calculateTimeRemaining(end = new Date(2018, 6, 15)) {
+function calculateTimeRemaining(end = new Date(2019, 3, 14)) {
   const now = new Date()
   const daysLeft = differenceInDays(end, now)
 

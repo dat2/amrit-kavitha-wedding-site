@@ -9,7 +9,7 @@ import NavMenu from '../components/NavMenu'
 import MobileNavMenu from '../components/MobileNavMenu'
 import headerPeony from './images/header-peony.svg'
 import footerPeony from './images/footer-peony.png'
-import bkgImg from './images/bkg.png'
+import bkgImg from './images/bkg.jpg'
 
 const Container = styled.div`
   min-height: 100vh;
@@ -38,7 +38,7 @@ const PageContainer = styled.div`
 `
 
 const Header = styled.div`
-  background-color: #fda38d;
+  background-color: #d3b725;
   color: white;
   font-size: 60px;
   line-height: 1.6em;
@@ -54,7 +54,7 @@ const Tagline = styled.div`
 `
 
 const Script = styled.div`
-  color: #fda38d;
+  color: #d3b725;
   font-size: 60px;
   line-height: 1.6em;
   text-align: center;
@@ -117,7 +117,7 @@ const TemplateWrapper = ({ children, location }) => (
       <img className="headerImg" src={headerPeony} />
     </div>
     <PageContainer>
-      <Tagline>July 15, 2018</Tagline>
+      <Tagline>April 14, 2019</Tagline>
       <Script className="great-vibes">Amrit & Kavitha</Script>
       <Tagline>{getTagLine(location)}</Tagline>
       <div className="page">
@@ -125,7 +125,7 @@ const TemplateWrapper = ({ children, location }) => (
         <div className="children">{children()}</div>
       </div>
       <Footer>
-        <FooterImage src={footerPeony} />
+        <div style={{ width: '100vw' }} />
         <CentredText>#AMRITWEDSKAVITHA</CentredText>
       </Footer>
     </PageContainer>

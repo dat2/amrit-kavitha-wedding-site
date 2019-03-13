@@ -24,7 +24,7 @@ const Container = styled.div`
     color: #a39683;
     text-decoration: underline;
     &:hover {
-      color: #fda38d;
+      color: #d3b725;
     }
   }
 `
@@ -60,13 +60,13 @@ const ProgramPage = () => (
     </SideImage>
     <Text>
       Amrit arrives at the wedding venue accompanied by the best man / tholan,
-      Anurjan (appointed from Kavitha’s family), his family and relatives. Upon
+      Anurjan (Kavitha’s brother), his family and relatives. Upon
       arrival at the wedding hall, Kavitha’s family welcomes Amrit with a flower
       garland. The best man sprinkles water on Amrit’s feet, a gesture lavished
       on an honoured guest, and in return Amrit gifts him a gold ring. To the
       accompaniment of the{' '}
       <a href="https://en.wikipedia.org/wiki/Nadaswaram">nathaswaram</a> (wind
-      instruments) and <a href="https://en.wikipedia.org/wiki/Thavil">thavil</a>{' '}
+      instrument) and <a href="https://en.wikipedia.org/wiki/Thavil">thavil</a>{' '}
       (percussion instrument), the best man and Amrit’s family lead the groom to
       the altar, where the priest awaits to perform the ceremony.
     </Text>
@@ -74,9 +74,9 @@ const ProgramPage = () => (
     <Text>
       Before performing any ceremony, Hindus first and foremost worship{' '}
       <a href="https://en.wikipedia.org/wiki/Ganesha">Lord Ganesha</a>, as he is
-      the destroyer of all obstacles and hurdles. On the auspicious hour, the
+      the destroyer of all obstacles and hurdles. At the auspicious hour, the
       priest sprinkles holy water sanctifying the ceremonial area. He then
-      performs the Ganesha Pooja - a prayer to Lord Ganesha, invoking his
+      performs the Ganesha pooja - a prayer to Lord Ganesha, invoking his
       blessings and protection for the wedding to take place without any
       unforeseen hindrances.
     </Text>
@@ -111,10 +111,10 @@ const ProgramPage = () => (
     </SideImage>
     <Text>
       Kavitha now enters the hall accompanied by her family and bridesmaids
-      wearing a saree gifted by her sister (Manavarai Saree). She is then
-      escorted by her maid of honour / tholi, Elizabeth (a close female
-      representative from Amrit’s family) and takes her place at the altar to the
-      right of Amrit. Similar rituals are held to sanctify and protect her;
+      wearing a saree (the first saree / Manavarai Saree). She is then
+      escorted by her maid of honour / tholi, Pooja (Amrit’s sister),
+      and takes her place at the altar to
+      the right of Amrit. A Ganesha pooja is held to sanctify and protect the bride;
       however the ring and thread are worn on her left ring finger and left
       wrist respectively. This is because the image of{' '}
       <a href="https://en.wikipedia.org/wiki/Ardhanarishvara">
@@ -142,17 +142,16 @@ const ProgramPage = () => (
       The Kanyaa Thanam ritualis the most sentimental part of the wedding. It is
       where Kavitha’s parents give their daughter’s hand in marriage to Amrit,
       making Kavitha a member of Amrit’s family. The priest calls the mothers of
-      both Kavitha and Amrit to the altar who great each other by sprinkling
-      scented water and placing yellow{' '}
-      <a href="https://en.wikipedia.org/wiki/Tilaka">thilakam</a> (turmeric) on
-      each other foreheads. Kavitha’s mother with betel leaf and coconut in hand
-      places her daughter's hand in Amrit’s hand indicating that he accept,
+      both Kavitha and Amrit to the altar who greet each other by sprinkling
+      scented water and placing turmeric on
+      each other's foreheads. Kavitha’s mother, holding a with betel leaf and coconut in her hands,
+      takes her daughter's hand and places it in Amrit’s hand indicating that he accept,
       cherish, and protect her all through life. She gives Amrit a gold coin
-      symbolic of giving away the bride. Amrit accepts the coin and in turn gives
-      it to his mother. This signifies the acceptance of Kavitha by Amrit and his
-      family.
+      symbolic of giving away the bride. Amrit accepts the coin and in turn
+      gives it to his mother. This signifies the acceptance of Kavitha by Amrit
+      and his family.
     </Text>
-    <Header>BLESSING OF THE SAREE AND thaali</Header>
+    <Header>BLESSING OF THE SAREE AND THAALI</Header>
     <SideImage>
       <img
         src="https://c1.staticflickr.com/6/5181/5664931643_801200ba5c_b.jpg"
@@ -161,21 +160,22 @@ const ProgramPage = () => (
       <Caption>Kumbam</Caption>
     </SideImage>
     <Text>
-      The priest blesses the tray, presented to Kavitha by Amrit, containing the
-      matrimonial Koorai saree,{' '}
+     Amrit gives a tray, containing the
+      second Koorai saree,{' '}
       <a href="https://en.wikipedia.org/wiki/Mangala_sutra">thaali</a> (gold
-      necklace symbolising marriage) and other adornments. The tray is presented
-      to the guests for their blessing. Kavitha then leaves the altar accompanied
-      by her mother and tholi (maid of honour) and returns to her bridal suite
-      to change into the Koorai saree. The priest consecrates the thaali by
-      placing it on a kumbam in which the{' '}
+      necklace symbolising marriage) and other adornments to Kavitha.
+      The tray blessed by the priest and then is presented
+      to the guests for their blessing. Kavitha then leaves the altar
+      accompanied by her mother and maid of honour/tholi and returns to her
+      bridal suite to change into the Koorai saree. The priest consecrates the
+      thaali by placing it on a kumbam in which the{' '}
       <a href="https://en.wikipedia.org/wiki/Lakshmi">Goddess Lakshmi</a>{' '}
       (Goddess of Wealth and Prosperity) is invoked and a pooja seeking her
       blessing is performed. The kumbam is a brass pot of water with a coconut
-      and mango leaves placed on it, representing the deity. Kavitha then returns
-      to the altar with her family and bridesmaids dressed in her Koorai saree
-      carrying a garland expressing her consent and acceptance and takes her
-      seat next to Amrit.
+      and mango leaves placed on it, representing the deity. Kavitha then
+      returns to the altar with her family and bridesmaids dressed in her Koorai
+      saree carrying a garland expressing her consent and acceptance and takes
+      her seat next to Amrit.
     </Text>
     <Header>TYING THE SACRED THAALI</Header>
     <SideImage>
@@ -187,29 +187,31 @@ const ProgramPage = () => (
     </SideImage>
     <Text>
       The crowning moment of the wedding is the thaali ceremony. The thaali is a
-      gold pendant with embossed sacred emblems strung on a kodi (a gold chain),
-      is a cherished symbol of a married Hindu woman and represents eternal love
-      and a pledge to remain faithful in the presence of god. The sacred thaali
+      gold pendant with embossed sacred emblems strung on a kodi (gold chain). It
+      is a cherished symbol of a married woman and represents eternal love
+      and a pledge to remain faithful in the presence of God. The sacred thaali
       will rest next to her heart. To begin the thaali ceremony, at the very
-      auspicious moment (Muhurtham), the priest calls for Kettimelam:{' '}
-      <a href="https://en.wikipedia.org/wiki/Thavil">thavil</a> accompanied by{' '}
-      <a href="https://en.wikipedia.org/wiki/Nadaswaram">nathaswaram</a> rising
+      auspicious moment (Muhurtham), the priest calls for the Kettimelam:{' '}
+      <a href="https://en.wikipedia.org/wiki/Thavil">thavil</a> (percussion instrument) accompanied by{' '}
+      <a href="https://en.wikipedia.org/wiki/Nadaswaram">nathaswaram</a> (wind instrument) rising
       to a crescendo, meant to drown out negative vibrations and other sounds in
       the wedding hall. The priest consecrates the thaali and gives it to Amrit,
       who stands to the right of Kavitha and ties the thaali around her neck.
-      This signifies their union as husband and wife, and is accompanied by
-      cutting of a coconut and a shower of flowers as the guest bless the
-      couple. With his finger Amrit spots Kavitha’s forehead with kunkumam
-      (vermilion dust), another symbol of a married Hindu woman. The priest
+      This signifies their union as husband and wife, and is accompanied by the
+      cutting of a coconut and a showering of flowers by the guests to bless the
+      couple. With his finger, Amrit spots Kavitha’s forehead with kunkumam
+      (vermilion powder), another symbol of a married woman. In respect to Odissi
+      culture, Amrit then puts a red glass bangle on KAvitha's wrist to 
+      symbolise the marriage. The priest
       holds high a lit oil lamp symbolizing the divine light witnessing the
       nuptial knot. The married couple now exchange{' '}
       <a href="https://en.wikipedia.org/wiki/Garland">garlands</a> (mala
       matruthal) three times and Amrit moves to accommodate Kavitha on his left,
-      Shakthi’s place beside Shiva. They also feed each other a mixture of
-      fruit, milk, and honey, as a promise of sweet and endless love they hope
+      Parvati’s place beside Shiva. They also feed each other a mixture of
+      fruit, milk, and honey, as a promise of the sweet and endless love they hope
       to share.
     </Text>
-    <Header>HOLY STEPS AROUND THE FIRE (Padaksinam &amp; Poorna Ahuthi)</Header>
+    <Header>HOLY STEPS AROUND THE FIRE</Header>
     <SideImage>
       <img
         src="https://aninfinitejourney.files.wordpress.com/2017/10/indian-wedding-toe-ring-photos.jpg"
@@ -220,11 +222,12 @@ const ProgramPage = () => (
     <Text>
       Tradition has it that marriage be formalized in the presence of Agni, the
       God of Fire. Here he stands as the universal witness to the union (Agni
-      Saatchi). Accompanied by the tholan &amp; tholi, Kavitha and Amrit will take
-      their first steps as husband and wife, circling the sacred fire clockwise
-      three times to pay their respect to Agni. Having God as their guide, the
-      couple will walk seven steps together to pledge their commitment towards
-      the seven goals for spiritual evolution, and this is called Sapatapadi.
+      Saatchi). Accompanied by the tholan &amp; tholi, Kavitha and Amrit will
+      take their first steps as husband and wife, circling the sacred fire
+      clockwise three times to pay their respect to Agni. Having God as their
+      guide, the couple will walk seven steps together to pledge their
+      commitment towards the seven goals for spiritual evolution, and this is
+      called Sapatapadi.
     </Text>
     <List>
       <li>The first step is for health, wealth and prosperity.</li>
@@ -255,31 +258,32 @@ const ProgramPage = () => (
       As they go around the Agni certain rituals are performed in keeping with
       tradition. Amrit places Kavitha’s right foot on a granite stone and puts a
       silver ring (metti) on her second toe. He repeats the same for the left
-      foot. In the process the groom blesses her with a will as strong and
+      foot. In the process, the groom blesses her with a will as strong and
       steadfast as the stone to help lead a happy married life with courage and
       faith despite any adversities that may come up in life. The metti also
-      indicates marital status of the bride. The priest points to the star
+      indicates the marital status of the bride. The priest points to the star
       Arundhathi who was known to be the ideal wife. The priest then drops a
       ring into a pit filled with water for the couple to find the ring. This
-      provides for a lighter moment eliciting giggles and chuckles as finger
+      provides for a lighter moment eliciting giggles and chuckles as fingers
       play and flounder for the ring in the privacy of the pot. The purpose of
-      this ceremony is to also see the understanding of giving in for each
-      other. Tradition has it that the one who finds the ring is said to be the
-      one who ‘commands’ the family. The couple makes offering to Agni, seeking
+      this ceremony is to highlight the importance of compromis and
+      understanding in a relationship. Tradition has it that the one
+      who finds the ring is said to be the
+      one who ‘commands’ the family. The couple makes an offering to Agni, seeking
       divine blessing (Poorna Ahuthi).
     </Text>
     <Header>BLESSINGS</Header>
     <Text>
       The priest, the parents, and the guests bless the couple by sprinkling
-      them with grains of rice to wish them prosperity and happiness. The
-      blessing is completed by the performance of Arthi (alathi) - the circular
+      them with rice to wish them prosperity and happiness. The
+      blessing is completed by the performance of an aarthi - the circular
       movement of a tray with lighted wicks - by two ladies. A new era dawns in
-      the life of the married couple.
+      the life of the newly married couple.
     </Text>
     <Header>THANK YOU</Header>
     <Text>
       To our family and friends who will be joining us this day, and to those
-      who cannot be with us. We love all and thank you for your love and
+      who cannot be with us, we thank you. We love you all and thank you for your love and
       friendship. It means so much to us to have you celebrate the beginning of
       our lives together. We hope you enjoy our celebrations, music, and food!
       ❤️

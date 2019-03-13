@@ -19,18 +19,18 @@ const Nav = styled.nav`
 `
 
 const Bar = styled.div`
-  background-color: #fda38d;
+  background-color: #d3b725;
   color: white;
   padding: 5px 10px;
   &:hover {
-    background-color: #ffaa9b;
+    background-color: #ad9522;
   }
 `
 
 const Menu = styled.div`
   display: flex;
   flex-wrap: wrap;
-  background-color: #fda38d;
+  background-color: #d3b725;
 `
 
 const FaBars = styled.img.attrs({
@@ -62,28 +62,28 @@ const MobileNavMenu = ({ visible, toggleVisible, closeMenu }) => (
       </Bar>
       <AnimateHeight duration={500} height={visible ? 'auto' : 0}>
         <Menu>
-          <StyledLink to="/" exact activeStyle={{ backgroundColor: '#ffaa9b' }}>
+          <StyledLink to="/" exact activeStyle={{ backgroundColor: '#ad9522' }}>
             Welcome
           </StyledLink>
-          <StyledLink to="/event/" activeStyle={{ backgroundColor: '#ffaa9b' }}>
+          <StyledLink to="/event/" activeStyle={{ backgroundColor: '#ad9522' }}>
             Wedding Event
           </StyledLink>
           <StyledLink
             to="/program/"
-            activeStyle={{ backgroundColor: '#ffaa9b' }}
+            activeStyle={{ backgroundColor: '#ad9522' }}
           >
             Wedding Program
           </StyledLink>
-          <StyledLink to="/rsvp/" activeStyle={{ backgroundColor: '#ffaa9b' }}>
+          <StyledLink to="/rsvp/" activeStyle={{ backgroundColor: '#ad9522' }}>
             RSVP
           </StyledLink>
           <StyledLink
             to="/photos/"
-            activeStyle={{ backgroundColor: '#ffaa9b' }}
+            activeStyle={{ backgroundColor: '#ad9522' }}
           >
             Photo Gallery
           </StyledLink>
-          <StyledLink to="/faq/" activeStyle={{ backgroundColor: '#ffaa9b' }}>
+          <StyledLink to="/faq/" activeStyle={{ backgroundColor: '#ad9522' }}>
             FAQ
           </StyledLink>
         </Menu>
