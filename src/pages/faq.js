@@ -94,13 +94,12 @@ const FaqPage = () => (
         </a>.
       </div>
       <div>
-          or by phone call to the <b>Amrit Residence</b>: [INSERT PHONE NUMBER HERE], or{' '}
-        <b>Kavitha Residence</b>: [INSERT PHONE NUMBER HERE]
+          or by phone call to the <b>Sriparamananthan Residence</b>: +1 (905) 294-3267
       </div>
     </div>
     <div className="faq-question">When is the RSVP deadline?</div>
     <div className="faq-answer">
-      Please let us know by <b>June 15, 2018</b>.
+      Please let us know by <b>March 14, 2019</b>.
     </div>
 
     <div className="faq-question">
@@ -109,10 +108,7 @@ const FaqPage = () => (
     </div>
     <div className="faq-answer">
       <div>
-        <b>Amrit Residence</b>: [INSERT PHONE NUMBER HERE]
-      </div>
-      <div>
-        <b>Kavitha Residence</b>: [INSERT PHONE NUMBER HERE]
+        <b>Sriparamananthan Residence</b>: +1 (905) 294-3267
       </div>
     </div>
   </div>

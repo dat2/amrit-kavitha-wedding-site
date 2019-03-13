@@ -27,6 +27,7 @@
     "format": "prettier --write 'src/**/*.{js,css,less}'"
   },
   "devDependencies": {
+    "gatsby-cli": "^2.4.15",
     "prettier": "^1.11.1"
   }
 }
